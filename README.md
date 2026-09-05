@@ -3,7 +3,7 @@
 👀 I’m interested in:
 Games 🎮🕹️ | Anime 📺 | Manga 📚 | Music 🎧🎸 | Art 🎨
 
-🌱 I’m currently studying Computer Science (BSc) while learning C++ & Unreal Engine ✨
+🌱 I’m currently studying Computer Science (BSc) while continuing to develop my C++, C# and software development skills ✨
 
 💻 I have solid experience with C# & Unity, focusing on gameplay programming & mechanics 🎮
 
