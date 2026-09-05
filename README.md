@@ -5,7 +5,7 @@ Games 🎮🕹️ | Anime 📺 | Manga 📚 | Music 🎧🎸 | Art 🎨
 
 🌱 I’m currently studying Computer Science (BSc) while continuing to develop my C++, C# and software development skills ✨
 
-💻 I have solid experience with C# & Unity, focusing on gameplay programming & mechanics 🎮
+💻 I have experience with C# & Unity, focusing on gameplay programming, systems and mechanics 🎮
 
 🚀 I enjoy building projects, experimenting with new ideas, and improving my technical design skills
 
